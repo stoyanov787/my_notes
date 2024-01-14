@@ -3,7 +3,7 @@ My notes is a website where users can store their notes/ tasks.
 
 Features:
 
-   - Creating an account using a unique name, password and email
+   - Creating an account using a unique name and a password
   
    - Saving notes/ tasks
 
