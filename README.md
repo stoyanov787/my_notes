@@ -3,9 +3,9 @@ My notes is a website where users can store their notes/ tasks and get email not
 
 Features:
 
-   - Creating an account using a unique name and password
+   - Creating an account using a unique name, password and email
   
-   - Saving notes with email reminder
+   - Saving notes with an email reminder
 
 The project is developed using Flask, MYSQL - SQLAlchemy (ORM).
 The architecture is MVC.
