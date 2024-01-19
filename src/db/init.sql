@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS notesdb;
+CREATE DATABASE notesdb;
