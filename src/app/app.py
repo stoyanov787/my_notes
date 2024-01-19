@@ -11,7 +11,7 @@ DB_INFO = {
     "USER": "root",
     "PASSWORD": "root",
     "HOST": "db",
-    "NAME": "userdb",
+    "NAME": "notesdb",
 }
 
 sleep(10)
